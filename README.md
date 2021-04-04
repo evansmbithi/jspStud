@@ -8,8 +8,8 @@ Student Management System in JSP
 4. Chrome Browser
 
 # installation
-Download the project to local PC
-Import the sql file to localhost with the name 'jspstud'
-Install Netbeans Connector Extesion in Chrome browser
-Open the project from netbeans
-Run and explore
+* Download the project to local PC
+* Import the sql file to localhost with the name 'jspstud'
+* Install Netbeans Connector Extesion in Chrome browser
+* Open the project from netbeans
+* Run and explore
